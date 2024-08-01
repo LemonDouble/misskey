@@ -8389,6 +8389,7 @@ export interface Locale extends ILocale {
          * 今日誕生日のユーザー
          */
         "birthdayFollowings": string;
+				"big-button": string
     };
     "_cw": {
         /**
